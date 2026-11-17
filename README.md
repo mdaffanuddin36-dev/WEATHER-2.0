@@ -8,7 +8,7 @@ Atmos is a stylish weather monitoring web application that provides real-time we
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [Add your deployed website link here]
+🔗 **Live Website:** https://elaborate-dragon-67fbbe.netlify.app
 
 📂 **GitHub Repository:** [https://github.com/mdaffanuddin36-dev/WEATHER-2.0]
 
